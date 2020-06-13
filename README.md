@@ -1,1 +1,1 @@
-# Horiseon-Homepage
+# Horiseon-Homepage is a repository that houses a refactoring assignment given by UW Bootcamp. I began with a webpage that meets accesability standards and added semantic html tags to the html source code, reordered elements to flow in a logical order, added alt atributes to any images, corrected the order of heading elements, condensed similar classes into singular classes for easier editing, and added a concise, descriptive title for the window tab.
